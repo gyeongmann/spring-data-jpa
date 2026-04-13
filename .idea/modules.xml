@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpashop.iml" filepath="$PROJECT_DIR$/.idea/modules/jpashop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpashop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpashop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpashop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpashop.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-data-jpa.iml" filepath="$PROJECT_DIR$/.idea/spring-data-jpa.iml" />
     </modules>
   </component>
